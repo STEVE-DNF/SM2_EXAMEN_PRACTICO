@@ -152,7 +152,7 @@ ENCRYPTION_KEY=your_encryption_key
 
 4. Iniciar el servidor:
 ```bash
-npm run dev
+npm run mode:dev
 ```
 
 ## Repositorio y Gestión del Proyecto
