@@ -1,5 +1,6 @@
 # CcontaPub - Sistema de Comunicación Profesional para Contadores
-- [Repositorio Publico](https://github.com/STEVE-DNF/SM2_EXAMEN_PRACTICO)
+Repositorio Publico
+(https://github.com/STEVE-DNF/SM2_EXAMEN_PRACTICO)
 
 ![Badge de Versión](https://img.shields.io/badge/version-1.0.0-blue)
 ![Badge de Licencia](https://img.shields.io/badge/license-MIT-green)
